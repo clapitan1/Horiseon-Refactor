@@ -145,6 +145,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
     border-radius: 10px;
+    box-shadow: 8px 3px 3px #020449;
 }
 
 .online-reputation-management {
